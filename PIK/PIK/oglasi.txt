@@ -1,0 +1,8 @@
+ID	Username	Naslov				Opis				Cijena		Stanje		Kategorija
+300	pasha		Passat_7			Passat_7_tek_uvezen		17250		2		1
+519	pasha		Stan_na_dan			Stan_na_dan_u_centru		50		2		2
+639	toreno		Laptop_ASUS_ROG			Profesionalni_gaming_laptop	5500		2		3
+800	toreno		PC_Fighter			Gaming_PC_Fighter_S300-04	779		2		3
+841	zexach		Mercedes_GLC			Model_je_dostupan_u_salonu	90000		2		1
+249	zexach		Stan_Mostar			Stan_u_naselju_Dum		210000		1		2
+418	toreno		Prodaja_vozila			Full_oprema			30000		2		1

@@ -1,0 +1,3 @@
+ID	Vrsta	Kvadrati	Broj soba	Broj spratova	Grad		Ulica
+519	2	50		2		5		Sarajevo	Marsala_Tita
+249	2	105		3		2		Mostar		Naselje_Dum

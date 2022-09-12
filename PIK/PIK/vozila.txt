@@ -1,0 +1,5 @@
+ID	Godiste		Kilovati	Broj brzina	Kilometraza	Boja		Tip		Vrsta goriva
+300	2013		77		6		221700		siva		lumzina		1
+841	2017		125		9		55000		crna		coupe		1
+
+418	2014		88		6		140000		zelena		limuzina	1
